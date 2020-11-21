@@ -1,0 +1,16 @@
+ .sidebar img{
+     width: 20px;
+     height: 20px;
+     margin: 10px 5px;
+ }
+
+.sidebar span {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111111;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    color: #275A53;
+}

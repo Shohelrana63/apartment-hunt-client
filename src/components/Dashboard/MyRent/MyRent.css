@@ -1,0 +1,41 @@
+.rent-area h4{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+    color: #0C0C0C;
+}
+
+.rent-area h6 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.rent-area th {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #686868;
+}
+
+.rent-area td {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.rent-area .btn {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    background: #275A53;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 6px 8px;
+}

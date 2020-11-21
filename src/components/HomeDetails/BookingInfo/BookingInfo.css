@@ -1,0 +1,19 @@
+.info .heading{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.0015em;
+    color: #16322E;
+    
+}
+.info .text{
+font-family: "Poppins", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 44px;
+letter-spacing: 0.0015em;
+color: #747474;
+}

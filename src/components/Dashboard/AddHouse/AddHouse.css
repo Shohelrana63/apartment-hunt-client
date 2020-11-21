@@ -1,0 +1,50 @@
+.house-area h4{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+    color: #0C0C0C;
+}
+
+.house-area h6 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C0C0C;
+}
+
+.house-area label {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #232323;
+}
+
+
+.file-upload input[type="file"] {
+    display: none;
+}
+
+.house-area .file-upload label {
+    padding: 6px 40px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #275A53;
+    background: #DEFFED;
+    border: 1px solid #275A53;
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    cursor: pointer;
+}
+
+.house-area .btn {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    background: #275A53;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 8px 40px;
+}

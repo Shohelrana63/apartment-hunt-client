@@ -1,0 +1,16 @@
+.apartment{
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url("../../../image/images/ShowOff.png");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    min-height: 290px;
+}
+.apartment h1{
+    font-family: "Montserrat" , sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+}

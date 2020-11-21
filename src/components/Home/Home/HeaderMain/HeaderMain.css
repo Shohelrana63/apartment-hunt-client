@@ -1,0 +1,43 @@
+/* .search-button{
+padding: 14px 46px;
+background: #275A53;
+border-radius: 5px;
+} */
+.searchsection {
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url("../../../../image/images/ShowOff.png");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    min-height: 500px;
+}
+ .search h1 {
+    font-family: "Montserrat" , sans-serif;;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.searchsection .search {
+    width: 750px;
+}
+.find-now-btn{
+    height: 50px;
+}
+
+
+.searchsection .search input::placeholder{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.0015em;
+    color: #747474;
+}
+
+.searchsection .search .find-now-btn {
+    color: #FFFFFF;
+    background: #275A53;
+    height: 50px;
+    border-radius: 5px;
+    padding: 14px 46px;
+}

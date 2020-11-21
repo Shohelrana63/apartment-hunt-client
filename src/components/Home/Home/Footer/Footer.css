@@ -1,0 +1,28 @@
+.footer {
+    background-color:#275A53;
+  }
+ 
+
+  .footer p, .footer a {
+    color: #FFFF;
+    font-weight: 200;
+    font-size: 18px;
+    letter-spacing: 0.0015em;
+  }
+  
+  .footer li {
+    padding-top: 8px;
+  }
+  
+  .footer a:hover {
+    color: #21b573;
+    text-decoration: none;
+  }
+  
+  .footer .bold-text {
+    font-weight: bold;
+  }
+
+  .footer img{
+      height: 24px;
+    }
